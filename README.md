@@ -34,7 +34,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Mongo DB
+- 🔧 &nbsp; React Hooks
 
 <hr>
 
