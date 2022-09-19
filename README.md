@@ -34,7 +34,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React Hooks
+- 🔧 &nbsp; React Hooks,MongoDb,Redux,Linux
 
 <hr>
 
